@@ -8,7 +8,7 @@
 #include <sys/time.h>
 
 #include <chrono>
-#include "opencv_demo.hpp"
+#include "ledpattern_detect.hpp"
 
 // 1/30fps sampling interval
 std::clock_t led_blink_interval_usec = (333);
